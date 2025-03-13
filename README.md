@@ -1,9 +1,9 @@
-# CP4-ARDUINO
+# CP4-ARDUINO-1ESPS
 
 ## Grupo:
 - Gabrielly Cândido Camargo da Silva - RM 560916
-- Luiza Saraçol Ribeiro - RM 560200
 - João Victor da Silva Ferreira - RM 560439
+- Luiza Saraçol Ribeiro - RM 560200
 
 ## Itens utilizados
 - Arduino Uno
